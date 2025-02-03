@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/bFsZDQz/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f776562.gif" />
 
 # 💫 About Me:
 I'am currently studying
