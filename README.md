@@ -1,16 +1,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://drive.google.com/uc?export=view&id=16kidufzsC52OSFyutAipq4M-6NYtDM1N"
+    srcset="https://raw.githubusercontent.com/mubashshirkhan/mubashshirkhan/main/dark_mode.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="light_mode.svg"
+    srcset="https://raw.githubusercontent.com/mubashshirkhan/mubashshirkhan/main/light_mode.svg"
   />
 
   <img
-    alt="mubashshirkhan's GitHub profile"
-    src="https://drive.google.com/uc?export=view&id=16kidufzsC52OSFyutAipq4M-6NYtDM1N"
+    alt="Mubashshir Khan's GitHub profile"
+    src="https://raw.githubusercontent.com/mubashshirkhan/mubashshirkhan/main/dark_mode.svg"
   />
 </picture>
